@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<FRAMESET cols="100%" rows="10%,90%" >
+  <FRAMESET rows="100%,">
+      <FRAME src="frame_a.htm">
+  </FRAMESET>
+  <FRAMESET cols="20%,60%" rows="40%,80">
+      <FRAME src="frame_b.htm">
+      <FRAME src="frame_c.htm">
+  </FRAMESET>
+  <FRAMESET rows="60%," >
+      <FRAME src="frame_d.htm">
+  </FRAMESET>
+
+</FRAMESET>
+</html>
